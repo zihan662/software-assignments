@@ -1,0 +1,14 @@
+D:\办事\代码\demo1\demo1\bin\Debug\net8.0\demo1.exe
+D:\办事\代码\demo1\demo1\bin\Debug\net8.0\demo1.deps.json
+D:\办事\代码\demo1\demo1\bin\Debug\net8.0\demo1.runtimeconfig.json
+D:\办事\代码\demo1\demo1\bin\Debug\net8.0\demo1.dll
+D:\办事\代码\demo1\demo1\bin\Debug\net8.0\demo1.pdb
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\demo1.AssemblyInfoInputs.cache
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\demo1.AssemblyInfo.cs
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\demo1.csproj.CoreCompileInputs.cache
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\demo1.dll
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\refint\demo1.dll
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\demo1.pdb
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\demo1.genruntimeconfig.cache
+D:\办事\代码\demo1\demo1\obj\Debug\net8.0\ref\demo1.dll

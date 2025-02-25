@@ -1,0 +1,10 @@
+D:\办事\代码\homework2\homework2\bin\Debug\homework2.exe.config
+D:\办事\代码\homework2\homework2\bin\Debug\homework2.exe
+D:\办事\代码\homework2\homework2\bin\Debug\homework2.pdb
+D:\办事\代码\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+D:\办事\代码\homework2\homework2\obj\Debug\homework2.Form1.resources
+D:\办事\代码\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+D:\办事\代码\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+D:\办事\代码\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+D:\办事\代码\homework2\homework2\obj\Debug\homework2.exe
+D:\办事\代码\homework2\homework2\obj\Debug\homework2.pdb
