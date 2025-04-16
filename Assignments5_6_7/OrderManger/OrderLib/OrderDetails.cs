@@ -13,13 +13,11 @@ namespace OrderLib
      **/
     public class OrderDetail
     {
-        public Product Product { get; set; }
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Index { get; set; } //序号
         [Required]
-        [StringLength(100)]
-        
+        public Product Product { get; set; }
         public String ProductName { get => Product != null ? this.Product.Name : ""; }
 
         public double UnitPrice { get => Product != null ? this.Product.Price : 0.0; }
@@ -29,7 +27,6 @@ namespace OrderLib
         {
             get => Product == null ? 0 : Product.Price * Quantity;
         }
-        [ForeignKey("Order")]
         public int Id { get; set; }
         public Order Order { get; set; }
 

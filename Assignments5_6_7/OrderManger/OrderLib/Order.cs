@@ -15,13 +15,12 @@ namespace OrderLib
     public class Order : IComparable<Order>
     {
         
-        public Customer Customer { get; set; }
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [Required]
-        [StringLength(100)]
+        public Customer Customer { get; set; }
         public string CustomerName { get => (Customer != null) ? Customer.Name : ""; }
         public DateTime CreateTime { get; set; }
 

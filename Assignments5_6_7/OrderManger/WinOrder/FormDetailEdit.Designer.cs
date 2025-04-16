@@ -83,11 +83,11 @@
             // 
             // bdsDetail
             // 
-            this.bdsDetail.DataSource = typeof(OrderApp.OrderDetail);
+            this.bdsDetail.DataSource = typeof(OrderLib.OrderDetail);
             // 
             // bdsGoods
             // 
-            this.bdsGoods.DataSource = typeof(OrderApp.Product);
+            this.bdsGoods.DataSource = typeof(OrderLib.Product);
             // 
             // label2
             // 
